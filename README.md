@@ -1,4 +1,4 @@
-# ParcialHerramientasComputacionales
+<em><strong># ParcialHerramientasComputacionales</em></strong><br>
 <strong>Parcial final de herramientas computacionales</strong><br>El problema que nos plantean es el siguiente:<br><ol type=”A”>
 <li>Las cafeterías de la universidad se encuentran dando descuentos a la comunidad estudiantil y dependiendo si es <em>estudiante</em> o <em>profesor</em>, tienen descuentos diferentes. Se desea saber entonces por cada compra cuanto debe pagar el usuario en la caja.</li> 
 <li>El algoritmo recibe como entrada la cédula, el rol, el código producto, cantidad de unidades y precio del producto.</li>
