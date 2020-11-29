@@ -9,4 +9,4 @@ El algoritmo recibe como entrada la cédula, el rol, el código producto, cantid
 
  Como salida imprime “El Rol con cedula Numero, debe pagar Valor por el producto Código”.
  
- El programa se repite cuantas veces sea necesario para poder atender a múltiples clientes.
+ El programa se repite cuantas veces sea necesario para poder atender a <strong>múltiples clientes</strong>.
