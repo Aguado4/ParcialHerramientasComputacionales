@@ -9,6 +9,6 @@ El algoritmo recibe como entrada la cédula, el rol, el código producto, cantid
 
  Como salida imprime “El Rol con cedula Numero, debe pagar Valor por el producto Código”.
  
- Para calcularlo, pide el precio del producto elegido, la cantidad de este a ser pedido, multiplica por el descuento si es estudiante o profesor, y arroja el resultado final.
+ Para calcularlo, pide el precio del producto elegido, la cantidad de este a ser pedido, multiplica por el descuento dado si es estudiante o profesor, y arroja el resultado final.
  
  El programa se repite cuantas veces sea necesario para poder atender a <strong>múltiples clientes</strong>.
